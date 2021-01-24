@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T14:55:34.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_VJtKk0b3xfLsTda-v1o" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:21:18.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I1pPwNIze-7o4d_h0_vv" version="14.2.7" type="github" pages="3">
   <diagram id="zR_2sqTFxMUZ1YrvqPyX" name="Soort Pagina">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -201,6 +201,14 @@
         <mxCell id="40Z0YA3f_dxGeV-_oIXX-45" value="Gebruiker logt uit voor zijn/haar sessie.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="450" y="1050" width="260" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7Zf1xriT8iZSIeAcXd0H" name="Klant Dashboard">
+    <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="4HYCkez6cAnju-H6sk3c-0" />
+        <mxCell id="4HYCkez6cAnju-H6sk3c-1" parent="4HYCkez6cAnju-H6sk3c-0" />
       </root>
     </mxGraphModel>
   </diagram>
