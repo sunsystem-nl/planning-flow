@@ -1,0 +1,19 @@
+{
+  "name": "planning-flow",
+  "version": "1.0.0",
+  "description": "A flow chart of pages and options for each page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunsystem-nl/planning-flow.git"
+  },
+  "author": "Pascal Meers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunsystem-nl/planning-flow/issues"
+  },
+  "homepage": "https://github.com/sunsystem-nl/planning-flow#readme"
+}
