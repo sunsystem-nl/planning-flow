@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T14:50:15.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ejrrKZ_GNoKP0JbqkLUi" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-24T14:55:34.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_VJtKk0b3xfLsTda-v1o" version="14.2.7" type="github" pages="2">
   <diagram id="zR_2sqTFxMUZ1YrvqPyX" name="Soort Pagina">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uhgydEytuGBEABrdSYqG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.421;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-3">
+        <mxCell id="uhgydEytuGBEABrdSYqG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.421;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-5">
+        <mxCell id="uhgydEytuGBEABrdSYqG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-4">
+        <mxCell id="uhgydEytuGBEABrdSYqG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uhgydEytuGBEABrdSYqG-1" target="uhgydEytuGBEABrdSYqG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-2" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Login/Home&lt;/h1&gt;&lt;p&gt;Iedere bezoeker wordt automatisch naar deze pagina geleid op het moment dat hij/zij niet heeft ingelogd.&lt;/p&gt;&lt;p&gt;Vanaf hier word gekeken naar de gebruikers rechten.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol style=&quot;line-height: 140%&quot;&gt;&lt;li&gt;De gebruiker is een klant, deze wordt doorgestuurd naar zijn/haar persoonlijke dashboard.&lt;/li&gt;&lt;li&gt;De gebruiker is een administrator, deze wordt doorgestuurd naar het admin dashboard.&lt;/li&gt;&lt;li&gt;De gebruiker is een werknemer, deze wordt doorgestuurd naar de planning.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-2" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Login/Home&lt;/h1&gt;&lt;p&gt;Iedere bezoeker wordt automatisch naar deze pagina geleid op het moment dat hij/zij niet heeft ingelogd.&lt;/p&gt;&lt;p&gt;Vanaf hier word gekeken naar de gebruikers rechten.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol style=&quot;line-height: 140%&quot;&gt;&lt;li&gt;De gebruiker is een klant, deze wordt doorgestuurd naar zijn/haar persoonlijke dashboard.&lt;/li&gt;&lt;li&gt;De gebruiker is een administrator, deze wordt doorgestuurd naar het admin dashboard.&lt;/li&gt;&lt;li&gt;De gebruiker is een werknemer, deze wordt doorgestuurd naar de planning.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" parent="1" vertex="1">
           <mxGeometry x="380" y="62.5" width="440" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="480" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="480" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="800" width="480" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-9" value="&lt;p style=&quot;line-height: 110%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;span&gt;Klanten Dashboard&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Paginas die voor klanten beschikbaar zijn.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Klantgegevens.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Lopende opdrachten.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten klaar niet afgehaald.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten klaar afgehaald.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-9" value="&lt;p style=&quot;line-height: 110%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;span&gt;Klanten Dashboard&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Paginas die voor klanten beschikbaar zijn.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Klantgegevens.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Lopende opdrachten.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten klaar niet afgehaald.&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten klaar afgehaald.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" parent="1" vertex="1">
           <mxGeometry x="60" y="502.5" width="440" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-10" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Planning/Werkplaats&lt;/h1&gt;&lt;div&gt;Paginas die in de werkplaats beschikbaar zijn.&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Planning. (Overzicht met opdrachten en bijbehorende stappen in productie)(Kolommen kunnen worden toegevoegd/verwijderd naar wens)&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Klant informatie. (Mocht een klant gebelt moeten worden)&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten Klaar niet afgehaald. (Een overzicht van alle opdrachten die klaar liggen voor levering)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-10" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;Planning/Werkplaats&lt;/h1&gt;&lt;div&gt;Paginas die in de werkplaats beschikbaar zijn.&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Planning. (Overzicht met opdrachten en bijbehorende stappen in productie)(Kolommen kunnen worden toegevoegd/verwijderd naar wens)&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Klant informatie. (Mocht een klant gebelt moeten worden)&lt;/li&gt;&lt;li style=&quot;line-height: 140%&quot;&gt;Opdrachten Klaar niet afgehaald. (Een overzicht van alle opdrachten die klaar liggen voor levering)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" parent="1" vertex="1">
           <mxGeometry x="700" y="502.5" width="440" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="uhgydEytuGBEABrdSYqG-11" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;span&gt;Kantoor/PC&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Paginas die op het kantoor beschikbaar zijn.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klanten overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klant bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klant toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruikers overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruiker bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruiker toevoegen. (Gebruiker krijgt een rol om te voorkomen dat deze gebruiker toegang heeft tot alles)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort producten overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort product bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort product toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;Opdrachten overzicht. (Filterbaar op meerdere kolommen / week / jaar)&lt;/li&gt;&lt;li&gt;Opdracht bewerken / verwijderen.&lt;/li&gt;&lt;li&gt;Opdracht toevoegen.&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;Opdrachten klaar niet afgehaald overzicht.&lt;/li&gt;&lt;li&gt;Opdrachten Totaal. (Jaar, week of dag overzicht)&lt;/li&gt;&lt;li&gt;Opdrachten overzicht voor bepaalde leverdag. (Filter op dag en week)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" vertex="1" parent="1">
+        <mxCell id="uhgydEytuGBEABrdSYqG-11" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;span&gt;Kantoor/PC&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Paginas die op het kantoor beschikbaar zijn.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klanten overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klant bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Klant toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruikers overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruiker bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Gebruiker toevoegen. (Gebruiker krijgt een rol om te voorkomen dat deze gebruiker toegang heeft tot alles)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort producten overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort product bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Soort product toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen overzicht.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen bewerken / verwijderen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Vakantie dagen toevoegen.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;Opdrachten overzicht. (Filterbaar op meerdere kolommen / week / jaar)&lt;/li&gt;&lt;li&gt;Opdracht bewerken / verwijderen.&lt;/li&gt;&lt;li&gt;Opdracht toevoegen.&lt;/li&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;Opdrachten klaar niet afgehaald overzicht.&lt;/li&gt;&lt;li&gt;Opdrachten Totaal. (Jaar, week of dag overzicht)&lt;/li&gt;&lt;li&gt;Opdrachten overzicht voor bepaalde leverdag. (Filter op dag en week)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;perimeterSpacing=10;" parent="1" vertex="1">
           <mxGeometry x="380" y="822.5" width="440" height="437.5" as="geometry" />
         </mxCell>
       </root>
@@ -45,33 +45,33 @@
       <root>
         <mxCell id="40Z0YA3f_dxGeV-_oIXX-0" />
         <mxCell id="40Z0YA3f_dxGeV-_oIXX-1" parent="40Z0YA3f_dxGeV-_oIXX-0" />
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="360" y="40" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" target="40Z0YA3f_dxGeV-_oIXX-6">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" target="40Z0YA3f_dxGeV-_oIXX-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="185" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-3" value="&lt;h1&gt;&lt;span&gt;Login / Home&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Op deze pagina zal de gebruiker moeten inloggen met zijn/haar email en paswoord.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Nadat de gebruiker heeft ingelogd zijn er verschillende handelingen die gecontroleerd worden met als gevolg een succesvolle login of een verkeerde login.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-3" value="&lt;h1&gt;&lt;span&gt;Login / Home&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Op deze pagina zal de gebruiker moeten inloggen met zijn/haar email en paswoord.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Nadat de gebruiker heeft ingelogd zijn er verschillende handelingen die gecontroleerd worden met als gevolg een succesvolle login of een verkeerde login.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="380" y="70" width="440" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-4" target="40Z0YA3f_dxGeV-_oIXX-7">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-4" target="40Z0YA3f_dxGeV-_oIXX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="40" y="360" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-6" value="Gebruiker login met email en paswoord." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-6" value="Gebruiker login met email en paswoord." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="60" y="370" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-11">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-15">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-19">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-7" target="40Z0YA3f_dxGeV-_oIXX-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="400" />
@@ -79,22 +79,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="440" y="360" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-9" value="Check of gebruiker bestaat in de database." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-9" value="Check of gebruiker bestaat in de database." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="460" y="370" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-11" target="40Z0YA3f_dxGeV-_oIXX-2">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-11" target="40Z0YA3f_dxGeV-_oIXX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="880" y="360" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-13" value="Gebruiker bestaat niet, stuur terug naar home." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-13" value="Gebruiker bestaat niet, stuur terug naar home." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="900" y="370" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-15" target="40Z0YA3f_dxGeV-_oIXX-2">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-15" target="40Z0YA3f_dxGeV-_oIXX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1180" y="460" />
@@ -102,103 +102,103 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="880" y="440" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-17" value="Gebruiker bestaat maar paswoord is incorrect, stuur terug naar home." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-17" value="Gebruiker bestaat maar paswoord is incorrect, stuur terug naar home." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="890" y="450" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-24">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-23">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-25">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-19" target="40Z0YA3f_dxGeV-_oIXX-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-19" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-19" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="880" y="520" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-20" value="Gebruiker bestaat en paswoord is correct, check de toegewezen rol." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-20" value="Gebruiker bestaat en paswoord is correct, check de toegewezen rol." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="890" y="530" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-23" target="40Z0YA3f_dxGeV-_oIXX-44">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-23" target="40Z0YA3f_dxGeV-_oIXX-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="440" y="640" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-24" target="40Z0YA3f_dxGeV-_oIXX-33">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-24" target="40Z0YA3f_dxGeV-_oIXX-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-24" target="40Z0YA3f_dxGeV-_oIXX-44">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-24" target="40Z0YA3f_dxGeV-_oIXX-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="880" y="640" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-25" target="40Z0YA3f_dxGeV-_oIXX-32">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-25" target="40Z0YA3f_dxGeV-_oIXX-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-25" target="40Z0YA3f_dxGeV-_oIXX-44">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-25" target="40Z0YA3f_dxGeV-_oIXX-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="1064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="40" y="640" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-26" value="Gebruiker is een klant en word zijn/haar dashboard gestuurd." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-26" value="Gebruiker is een klant en word zijn/haar dashboard gestuurd." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="50" y="650" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-27" value="Gebruiker is een productie medewerker en word naar de planning gestuurd." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
-          <mxGeometry x="450" y="650" width="260" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-28" value="Gebruiker is een administrator en word naar het admin dashboard gestuurd.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-27" value="Gebruiker is een productie medewerker en word naar de planning gestuurd." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="890" y="650" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-32" target="40Z0YA3f_dxGeV-_oIXX-36">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-28" value="Gebruiker is een administrator en word naar het admin dashboard gestuurd.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
+          <mxGeometry x="450" y="650" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-32" target="40Z0YA3f_dxGeV-_oIXX-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="40" y="760" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-33" target="40Z0YA3f_dxGeV-_oIXX-36">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-33" target="40Z0YA3f_dxGeV-_oIXX-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="880" y="760" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-34" value="Gebruiker voert een handeling uit waar hij/zij geen geschikte rol voor heeft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-34" value="Gebruiker voert een handeling uit waar hij/zij geen geschikte rol voor heeft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="50" y="770" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-36" target="40Z0YA3f_dxGeV-_oIXX-24">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-36" target="40Z0YA3f_dxGeV-_oIXX-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-36" target="40Z0YA3f_dxGeV-_oIXX-25">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-36" target="40Z0YA3f_dxGeV-_oIXX-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="460" y="880" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-40" value="Gebruiker voert een handeling uit waar hij/zij geen geschikte rol voor heeft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-40" value="Gebruiker voert een handeling uit waar hij/zij geen geschikte rol voor heeft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="890" y="770" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-41" value="Gebruiker komt op een 404 geen toegang pagina met een link terug naar het startscherm." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-41" value="Gebruiker komt op een 404 geen toegang pagina met een link terug naar het startscherm." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="470" y="890" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-44" target="40Z0YA3f_dxGeV-_oIXX-2">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-44" target="40Z0YA3f_dxGeV-_oIXX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="440" y="1040" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-45" value="Gebruiker logt uit voor zijn/haar sessie.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="40Z0YA3f_dxGeV-_oIXX-1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-45" value="Gebruiker logt uit voor zijn/haar sessie.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="450" y="1050" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
