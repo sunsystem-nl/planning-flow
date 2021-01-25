@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T10:54:38.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bXJM0I4jHi4xNf5IAgcy" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:01:06.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z1zH66-SsOnPj0U-ibih" version="14.2.7" type="github" pages="3">
   <diagram id="zR_2sqTFxMUZ1YrvqPyX" name="Soort Pagina">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
             <mxPoint x="360" y="185" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40Z0YA3f_dxGeV-_oIXX-3" value="&lt;h1&gt;&lt;span&gt;Login / Home&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Op deze pagina zal de gebruiker moeten inloggen met zijn/haar email en paswoord.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Nadat de gebruiker heeft ingelogd zijn er verschillende handelingen die gecontroleerd worden met als gevolg een succesvolle login of een verkeerde login.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
+        <mxCell id="40Z0YA3f_dxGeV-_oIXX-3" value="&lt;h1&gt;&lt;span&gt;Login / Home&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal ; line-height: 70%&quot;&gt;Op deze pagina zal de gebruiker moeten inloggen met zijn/haar email en paswoord.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Nadat de gebruiker heeft ingelogd zijn er verschillende handelingen die gecontroleerd worden met als gevolg een succesvolle login of een verkeerde login.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=1;" parent="40Z0YA3f_dxGeV-_oIXX-1" vertex="1">
           <mxGeometry x="380" y="70" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="40Z0YA3f_dxGeV-_oIXX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="40Z0YA3f_dxGeV-_oIXX-1" source="40Z0YA3f_dxGeV-_oIXX-4" target="40Z0YA3f_dxGeV-_oIXX-7" edge="1">
