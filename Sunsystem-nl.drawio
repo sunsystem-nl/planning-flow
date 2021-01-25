@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:01:06.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z1zH66-SsOnPj0U-ibih" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:42:39.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kj19e7_MP6CVEbwbjXIG" version="14.2.7" type="github" pages="4">
   <diagram id="zR_2sqTFxMUZ1YrvqPyX" name="Soort Pagina">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -254,6 +254,47 @@
         </mxCell>
         <mxCell id="cZxCmrV1irYvqPwk2-5y-0" value="&lt;h1&gt;Klant Opdrachten Klaar Afgehaald&lt;/h1&gt;&lt;p&gt;Zichtbare gegevens:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Opdrachtnummer.&lt;/li&gt;&lt;li&gt;Referentie.&lt;/li&gt;&lt;li&gt;Soort product.&lt;/li&gt;&lt;li&gt;Aantal van het product.&lt;/li&gt;&lt;li&gt;Status. (geleverd)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Deze tabel heeft een filter en sorteer functie om het zoeken naar een opdracht te verfijnen.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
           <mxGeometry x="690" y="935" width="460" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fLW3jGcGNmhAp41Lrl2V" name="Werkplaats Login">
+    <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="_cOSrpNItAO7Ad6m3Izv-0" />
+        <mxCell id="_cOSrpNItAO7Ad6m3Izv-1" parent="_cOSrpNItAO7Ad6m3Izv-0" />
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_cOSrpNItAO7Ad6m3Izv-1" source="jGVdU2Ma4gjxF0kne9ZP-0" target="1bT8wtpuJd08rkUbfY5q-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_cOSrpNItAO7Ad6m3Izv-1" source="jGVdU2Ma4gjxF0kne9ZP-0" target="1bT8wtpuJd08rkUbfY5q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGVdU2Ma4gjxF0kne9ZP-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="360" y="40" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jGVdU2Ma4gjxF0kne9ZP-1" value="&lt;h1&gt;Werkplaats Login&lt;/h1&gt;&lt;p&gt;Na het inloggen komt de werknemer op deze pagina terecht.&lt;/p&gt;&lt;p&gt;Op deze pagina zullen een aantal grafieken zichtbaar zijn, onder anderen&amp;nbsp; een grafiek die per week aangeeft hoeveel opdrachten er staan ingepland en een grafiek die per week aangeeft hoeveel producten.&lt;/p&gt;&lt;p&gt;Tevens zal hier een tabel staan met opdrachten die een opmerking hebben en een kalender waarop vakantiedagen zichtbaar zijn.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="380" y="60" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_cOSrpNItAO7Ad6m3Izv-1" source="1bT8wtpuJd08rkUbfY5q-0" target="1bT8wtpuJd08rkUbfY5q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="50" y="320" width="480" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-1" value="&lt;h1&gt;Werkplaats Planning&lt;/h1&gt;&lt;p&gt;Deze pagina bevat een tabel met opdrachten, tevens kunnen de kolommen worden aangepast (toevoegen/verwijderen) en dit zal in het apparaat zijn geheugen worden opgeslagen totdat dit wordt aangepast.&lt;/p&gt;&lt;p&gt;Dit scherm zal ook een dropdown hebben voor het jaar en de week te selecteren met de daarbij behorende terug en volgende buttons.&lt;/p&gt;&lt;p&gt;Bij het bereiken van week 52 (soms week 53) zal de planning automatisch 1 jaar vooruit gaan of bij het bereiken van week 1 1 jaar terug.&lt;/p&gt;&lt;p&gt;Kolommen in de tabel:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Opdrachtnummer.&lt;/li&gt;&lt;li&gt;Klant naam kort.&lt;/li&gt;&lt;li&gt;Referentie.&lt;/li&gt;&lt;li&gt;Aantal producten.&lt;/li&gt;&lt;li&gt;Soort product.&lt;/li&gt;&lt;li&gt;Opmerking.&lt;/li&gt;&lt;li&gt;Leverdatum (Jaar).&lt;/li&gt;&lt;li&gt;Leverdatum (Week).&lt;/li&gt;&lt;li&gt;Leverdatum (Dag).&lt;/li&gt;&lt;li&gt;Status pantser.&lt;/li&gt;&lt;li&gt;Status kast.&lt;/li&gt;&lt;li&gt;Status ingetrokken.&lt;/li&gt;&lt;li&gt;Status geleiders.&lt;/li&gt;&lt;li&gt;Status bediening.&lt;/li&gt;&lt;li&gt;Status gereed. (Automatisch wanneer alle andere statussen zijn aangevinkt).&lt;/li&gt;&lt;li&gt;Status afgehaald.&lt;/li&gt;&lt;li&gt;Print knop. (Opdrachtnummer, Klant naam lang, Referentie).&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Bij het klikken op de klant naam zal een modal verschijnen met de contactgegevens van de klant.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="60" y="340" width="440" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="360" y="920" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-5" value="&lt;h1&gt;Werkplaats Klant Gegevens&lt;/h1&gt;&lt;p&gt;In de modal die verschijnt na het klikken op een klant naam zal de volgende informatie beschikbaar zijn:&lt;/p&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;Contactpersoon.&lt;/li&gt;&lt;li&gt;Bedrijfsnaam.&lt;/li&gt;&lt;li&gt;Telefoon Vast.&lt;/li&gt;&lt;li&gt;Telefoon Mobiel.&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="380" y="940" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="680" y="320" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1bT8wtpuJd08rkUbfY5q-8" value="&lt;h1&gt;Werkplaats Overzicht Opdrachten Klaar&lt;/h1&gt;&lt;p&gt;Dit scherm zal alleen opdrachten laten zien die klaar zijn, deze kan dan met behulp van een filter selecteren of de opdrachten zijn afgehaald of nog geleverd moeten worden.&lt;/p&gt;&lt;p&gt;Ook hier kunnen kolommen zelf worden toegevoegd / verwijderd naar wens en zal hetzelfde systeem gebruikt worden om de week en het jaar te selecteren&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_cOSrpNItAO7Ad6m3Izv-1">
+          <mxGeometry x="700" y="340" width="440" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
