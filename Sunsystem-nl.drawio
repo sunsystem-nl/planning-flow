@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:21:18.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I1pPwNIze-7o4d_h0_vv" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-25T10:54:38.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bXJM0I4jHi4xNf5IAgcy" version="14.2.7" type="github" pages="3">
   <diagram id="zR_2sqTFxMUZ1YrvqPyX" name="Soort Pagina">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -204,11 +204,57 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7Zf1xriT8iZSIeAcXd0H" name="Klant Dashboard">
+  <diagram id="7Zf1xriT8iZSIeAcXd0H" name="Klant Login">
     <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="4HYCkez6cAnju-H6sk3c-0" />
         <mxCell id="4HYCkez6cAnju-H6sk3c-1" parent="4HYCkez6cAnju-H6sk3c-0" />
+        <mxCell id="uYNr9vRNprHvUgnE9S33-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4HYCkez6cAnju-H6sk3c-1" source="SMEXIDe-SgFKRkrbWWkX-0" target="0-gRrT6_gDo_320jF0dN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1rUHc7RG8W78ZzRbL0p-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4HYCkez6cAnju-H6sk3c-1" source="SMEXIDe-SgFKRkrbWWkX-0" target="0-gRrT6_gDo_320jF0dN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SMEXIDe-SgFKRkrbWWkX-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="360" y="40" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cZxCmrV1irYvqPwk2-5y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4HYCkez6cAnju-H6sk3c-1" source="SjKfiRPIdmPHDRSA0BzE-0" target="uYNr9vRNprHvUgnE9S33-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZxCmrV1irYvqPwk2-5y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4HYCkez6cAnju-H6sk3c-1" source="SjKfiRPIdmPHDRSA0BzE-0" target="0-gRrT6_gDo_320jF0dN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SjKfiRPIdmPHDRSA0BzE-0" value="&lt;h1&gt;Klant Dashboard&lt;/h1&gt;&lt;p&gt;Na het inloggen komt de klant op een pagina terecht die alleen voor de klant zichtbaar is.&lt;/p&gt;&lt;p&gt;Op deze pagina ziet de klant een overzicht van alle bedrijfs en persoonsgegevens.&lt;/p&gt;&lt;p&gt;Tevens ziet de klant hier een verkapt overzicht van opdrachten die klaar zijn en ingepland staan.&lt;/p&gt;&lt;p&gt;(Optie) kan er op deze pagina een verwachte levertijd worden aangegeven&amp;nbsp; bijv:&lt;br&gt;Huidige levertijd is +/- 4 weken.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="380" y="60" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0-gRrT6_gDo_320jF0dN-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="40" y="360" width="480" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="0-gRrT6_gDo_320jF0dN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="680" y="360" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0-gRrT6_gDo_320jF0dN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="680" y="920" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uYNr9vRNprHvUgnE9S33-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=1;sketch=1;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="680" y="640" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uYNr9vRNprHvUgnE9S33-1" value="&lt;h1&gt;Klant Dashboard&lt;/h1&gt;&lt;p&gt;Zichtbare Persoonsgegevens:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Naam Lang. (Bedrijfsnaam)&lt;/li&gt;&lt;li&gt;Contactpersoon.&lt;/li&gt;&lt;li&gt;Straatnaam.Postcode.&lt;/li&gt;&lt;li&gt;Plaats.&lt;/li&gt;&lt;li&gt;Land.&lt;/li&gt;&lt;li&gt;Telefoon Vast.&lt;/li&gt;&lt;li&gt;Telefoon Mobiel.&lt;/li&gt;&lt;li&gt;Fax? (optie)&lt;/li&gt;&lt;li&gt;E-Mail.&lt;/li&gt;&lt;li&gt;Gewenste Leverdag. (Alleen zichtbaar voor klanten die dit aangeven)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Huidige Levertijd:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Een huidige levertijd aangegeven als +/- X aantal weken.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Overzicht:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Overzicht opdrachten die op het moment van inloggen klaar liggen. (Referentie, opdrachtnummer, weeknummer) opdracht is klikbaar voor uitgebreide&amp;nbsp; informatie.&lt;/li&gt;&lt;li&gt;Overzicht opdrachten die staan gepland op het moment van inloggen. (Referentie, opdrachtnummer, weeknummer) met disclaimer dat de verwachte datum kan veranderen door omstandigheden.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Button:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Een button die het mogelijk maakt om een aanvraag te doen om persoonsgegevens te wijzigen via email.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="60" y="380" width="440" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="uYNr9vRNprHvUgnE9S33-4" value="&lt;h1&gt;Klant Lopende Opdrachten&lt;/h1&gt;&lt;p&gt;Zichtbare gegevens:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Opdrachtnummer.&lt;/li&gt;&lt;li&gt;Referentie.&lt;/li&gt;&lt;li&gt;Verwachte levertijd.&lt;/li&gt;&lt;li&gt;Soort product.&lt;/li&gt;&lt;li&gt;Aantal van het product.&lt;/li&gt;&lt;li&gt;Status. (in productie, geleverd)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Deze tabel heeft een filter en sorteer functie om het zoeken naar een opdracht te verfijnen.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="700" y="375" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="W1rUHc7RG8W78ZzRbL0p-1" value="&lt;h1&gt;Klant Opdrachten Klaar Niet Afgehaald&lt;/h1&gt;&lt;p&gt;Zichtbare gegevens:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Opdrachtnummer.&lt;/li&gt;&lt;li&gt;Referentie.&lt;/li&gt;&lt;li&gt;Soort product.&lt;/li&gt;&lt;li&gt;Aantal van het product.&lt;/li&gt;&lt;li&gt;Status. (Klaar)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Deze tabel heeft een filter en sorteer functie om het zoeken naar een opdracht te verfijnen.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="700" y="655" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="cZxCmrV1irYvqPwk2-5y-0" value="&lt;h1&gt;Klant Opdrachten Klaar Afgehaald&lt;/h1&gt;&lt;p&gt;Zichtbare gegevens:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Opdrachtnummer.&lt;/li&gt;&lt;li&gt;Referentie.&lt;/li&gt;&lt;li&gt;Soort product.&lt;/li&gt;&lt;li&gt;Aantal van het product.&lt;/li&gt;&lt;li&gt;Status. (geleverd)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Deze tabel heeft een filter en sorteer functie om het zoeken naar een opdracht te verfijnen.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="4HYCkez6cAnju-H6sk3c-1">
+          <mxGeometry x="690" y="935" width="460" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
